@@ -1,15 +1,15 @@
 # Justin Newcom
 
-**Senior Technical Leader** — AI, Supply Chain, Retail & CPG
+**Senior Technical Leader** � AI, Supply Chain, Retail & CPG
 
 I build production AI systems at the intersection of enterprise software and emerging technology. 20+ years of experience helping large companies operationalize GenAI, agentic architectures, and data platforms.
 
 ## Focus Areas
 
-- 🏗️ **Agentic Architecture** — Multi-agent systems with human-in-the-loop decision boundaries
-- 🛒 **Retail & CPG** — Supply chain optimization, product data enrichment, demand sensing
-- 🔧 **MCP (Model Context Protocol)** — Giving AI agents structured access to enterprise data
-- 📐 **Technical Leadership** — Architecture reviews, decision frameworks, team operating rhythms
+- Architecture � Multi-agent systems with human-in-the-loop decision boundaries
+- Retail & CPG � Supply chain optimization, product data enrichment, demand sensing
+- MCP (Model Context Protocol) � Giving AI agents structured access to enterprise data
+- Technical Leadership � Architecture reviews, decision frameworks, team operating rhythms
 
 ## Public Work
 
@@ -21,8 +21,8 @@ I build production AI systems at the intersection of enterprise software and eme
 
 ## Background
 
-Previously led technology teams across retail, CPG, and supply chain — from startup to enterprise scale. I focus on the gap between AI demos and production systems: the architecture decisions, guardrails, and operating patterns that make AI actually work in regulated, high-stakes environments.
+Previously led technology teams across retail, CPG, and supply chain � from startup to enterprise scale. I focus on the gap between AI demos and production systems: the architecture decisions, guardrails, and operating patterns that make AI actually work in regulated, high-stakes environments.
 
 ---
 
-*Dallas, TX* · [LinkedIn](https://www.linkedin.com/in/justinnewcom/)
+*Dallas, TX* | [LinkedIn](https://www.linkedin.com/in/justinnewcom/)
