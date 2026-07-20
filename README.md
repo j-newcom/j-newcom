@@ -17,7 +17,8 @@ I build production AI systems at the intersection of enterprise software and eme
 |------|-----------|
 | [retail-cpg-ai-architecture-patterns](https://github.com/j-newcom/retail-cpg-ai-architecture-patterns) | Reference architectures + working AWS CDK implementation for AI in Retail/CPG |
 | [supply-chain-mcp-server](https://github.com/j-newcom/supply-chain-mcp-server) | MCP server giving AI agents access to inventory, demand, suppliers, and EDI data |
-| [genai-enterprise-workshop](https://github.com/j-newcom/genai-enterprise-workshop) | Hands-on 90-minute labs for enterprise teams evaluating GenAI |
+\
+| [agent-bridge-mcp](https://github.com/j-newcom/agent-bridge-mcp) | MCP server enabling cross-environment communication between AI agents via S3 message store |
 
 ## Background
 
