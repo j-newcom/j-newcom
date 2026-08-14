@@ -16,6 +16,7 @@ I build production AI systems at the intersection of enterprise software and eme
 
 | Repo | What it is |
 |------|-----------|
+| [agentic-supply-chain](https://github.com/j-newcom/agentic-supply-chain) | 5 autonomous AI agents managing a CPG supply chain — clone it, `docker compose up`, watch agents make decisions |
 | [mcp-enterprise-patterns](https://github.com/j-newcom/mcp-enterprise-patterns) | Production-grade patterns for enterprise MCP servers — config, structured errors, validation, observability, and a tool registry |
 | [retail-cpg-ai-architecture-patterns](https://github.com/j-newcom/retail-cpg-ai-architecture-patterns) | Reference architectures for AI in Retail/CPG, with a runnable local multi-agent demo (Docker Compose + Floci) |
 | [supply-chain-mcp-server](https://github.com/j-newcom/supply-chain-mcp-server) | MCP server giving AI agents access to inventory, demand, suppliers, and EDI data |
