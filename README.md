@@ -24,6 +24,7 @@ I build production AI systems at the intersection of enterprise software and eme
 | [genai-enterprise-workshop](https://github.com/j-newcom/genai-enterprise-workshop) | Hands-on 90-minute labs for enterprise teams evaluating GenAI |
 | [agent-bridge-mcp](https://github.com/j-newcom/agent-bridge-mcp) | MCP server enabling cross-environment communication between AI agents via S3 message store |
 | [technical-leadership-patterns](https://github.com/j-newcom/technical-leadership-patterns) | Operating frameworks, decision models, and team management patterns for technical leaders |
+| [mcp-token-optimizer](https://github.com/j-newcom/mcp-token-optimizer) | Measures and shrinks the token footprint of MCP tool definitions — safely, with zero dependencies |
 | [mcp-client-testing](https://github.com/j-newcom/mcp-client-testing) | Test harness for MCP servers — simulate tool calls, assert responses, and run pre-built test suites against any server without building a real client |
 
 ## Background
